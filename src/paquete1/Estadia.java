@@ -6,10 +6,7 @@ package paquete1;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author ADRIAN
- */
+
 public class Estadia 
 {
     private float precioTotalNoches;

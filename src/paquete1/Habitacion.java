@@ -5,10 +5,7 @@
 package paquete1;
 
 
-/**
- *
- * @author ADRIAN
- */
+
 public class Habitacion 
 {
     private int numero, capacidad;

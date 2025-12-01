@@ -4,10 +4,7 @@
  */
 package paquete1;
 
-/**
- *
- * @author ADRIAN
- */
+
 public class ErrorG extends javax.swing.JFrame {
 
     /**

@@ -4,10 +4,7 @@
  */
 package paquete1;
 
-/**
- *
- * @author ADRIAN
- */
+
 public class RecepcionistaG extends javax.swing.JFrame {
 
     /**

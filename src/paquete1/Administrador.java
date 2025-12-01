@@ -4,10 +4,7 @@
  */
 package paquete1;
 
-/**
- *
- * @author ADRIAN
- */
+
 public class Administrador extends Empleado
 {
     //CONSTRUCTOR

@@ -7,10 +7,7 @@ package paquete1;
 import java.util.ArrayList;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author ADRIAN
- */
+
 public class ReporteHabitacionesG extends javax.swing.JFrame {
 
     /**
